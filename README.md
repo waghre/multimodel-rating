@@ -25,10 +25,10 @@ pip install -r requirements.txt
 - **Random Forest Classifier**
 - **Support Vector Machine (SVM)**
 - **knn**
--**Decision Tree**
--**Naive Bayes**
--**XGBoost**
--**Neural Network**
+- **Decision Tree**
+- **Naive Bayes**
+- **XGBoost**
+- **Neural Network**
 
 
 ## 📜 License:
