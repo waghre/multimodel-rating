@@ -24,6 +24,12 @@ pip install -r requirements.txt
 - **Logistic Regression**
 - **Random Forest Classifier**
 - **Support Vector Machine (SVM)**
+- **knn**
+-**Decision Tree**
+-**Naive Bayes**
+-**XGBoost**
+-**Neural Network**
+
 
 ## 📜 License:
 This project is for educational and research purposes only.
